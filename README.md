@@ -1,0 +1,1 @@
+Link to the project documentation (https://masiza.hashnode.dev/pdf-reader-app-using-langchain-and-streamlit)
